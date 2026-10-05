@@ -1,12 +1,14 @@
-<h3 align="left">Hi, I'm Suvraneel 👋</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+  <img alt="Suvraneel — Mobile & full-stack engineer" src="assets/banner-dark.png" width="100%">
+</picture>
 
 I build **mobile-first products** — Flutter apps with native Kotlin where it matters, Next.js on the web, and Postgres doing the heavy lifting underneath. I care about the unglamorous parts: row-level security, offline behaviour, test coverage, and shipping.
 
-Based in Kolkata · BCA (Hons), MAKAUT '27 · Open to internships and freelance work
+BCA (Hons), MAKAUT '27 · Open to internships and freelance work · [psuvraneel@gmail.com](mailto:psuvraneel@gmail.com)
 
----
-
-### 🔨 What I'm building
+### Selected work
 
 <table>
 <tr>
@@ -45,15 +47,12 @@ Based in Kolkata · BCA (Hons), MAKAUT '27 · Open to internships and freelance 
 </tr>
 </table>
 
----
-
-### 🧰 Toolbox
+### Stack
 
 **Mobile** — Flutter · Dart · Kotlin · Riverpod · Provider<br>
 **Web** — Next.js · React · TypeScript · Tailwind · Django<br>
 **Data** — PostgreSQL · Supabase · Firebase · SQLite<br>
-**Also** — Python · Java · PHP · GitHub Actions · Vercel · Cloudflare Workers
+**Infra** — GitHub Actions · Vercel · Cloudflare Workers<br>
+**Also** — Python · Java · PHP
 
----
-
-<sub>📫 Reach me at **[psuvraneel@gmail.com](mailto:psuvraneel@gmail.com)** — or open an issue on any repo. If something here is useful to you, a ⭐ helps more than you'd think.</sub>
+<sub>If something here is useful to you, a ⭐ on the repo helps more than you'd think.</sub>
