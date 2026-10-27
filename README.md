@@ -14,12 +14,21 @@ BCA (Hons), MAKAUT '27 · Open to internships and freelance work · [psuvraneel@
 <tr>
 <td width="50%" valign="top">
 
+**[Offcut](https://github.com/psuvraneel-cyber/OffCut)** · [live ↗](https://offcut-ai.pages.dev)<br>
+<sub>Free, open-source in-browser AI video clipper. Turns long videos into captioned 9:16 vertical Reels with zero server uploads and no watermarks.</sub><br><br>
+<sub>`React 19` `Vite 8` `WebGPU` `Whisper AI` `Cloudflare Pages`</sub>
+
+</td>
+<td width="50%" valign="top">
+
 **[LiveDrop](https://github.com/psuvraneel-cyber/LiveDrop)** · [live ↗](https://livedrop-in.vercel.app)<br>
 <sub>Real-time live-commerce for boutique sellers who sell over Facebook Live and WhatsApp. Replaces comment-flood claiming, UPI screenshot matching and hand-written labels with one atomic flow.</sub><br><br>
 <sub>`Next.js 16` `React 19` `Flutter` `Supabase` `PostgreSQL 17`</sub><br>
 <sub>32 versioned migrations · RLS on every table · 460 passing tests · CI on every push</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[LockKeeper](https://github.com/psuvraneel-cyber/LockKeeper)**<br>
@@ -28,8 +37,6 @@ BCA (Hons), MAKAUT '27 · Open to internships and freelance work · [psuvraneel@
 <sub>No INTERNET permission · zero analytics · fully on-device</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[P.E.T. — Personal Expense Tracker](https://github.com/psuvraneel-cyber/Personal-Expense-Tracker)**<br>
@@ -37,12 +44,16 @@ BCA (Hons), MAKAUT '27 · Open to internships and freelance work · [psuvraneel@
 <sub>`Flutter` `Firebase` `SQLite` `Cloudflare Workers`</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Car Sales & Inventory ERP](https://github.com/psuvraneel-cyber/Car-Sales-And-Inventory-Management-System-ERP-)**<br>
 <sub>Dealership ERP covering inventory, customers, sales, Razorpay payments and test-drive scheduling.</sub><br><br>
 <sub>`Django 5` `PostgreSQL` `Razorpay` `Gunicorn`</sub>
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
